@@ -1,0 +1,15 @@
+C:\Users\pasha\source\repos\exzoop9\exzoop9\obj\Debug\exzoop9.csproj.AssemblyReference.cache
+C:\Users\pasha\source\repos\exzoop9\exzoop9\obj\Debug\exzoop9.csproj.SuggestedBindingRedirects.cache
+C:\Users\pasha\source\repos\exzoop9\exzoop9\obj\Debug\exzoop9.csproj.CoreCompileInputs.cache
+C:\Users\pasha\source\repos\exzoop9\exzoop9\bin\Debug\exzoop9.exe.config
+C:\Users\pasha\source\repos\exzoop9\exzoop9\bin\Debug\exzoop9.exe
+C:\Users\pasha\source\repos\exzoop9\exzoop9\bin\Debug\exzoop9.pdb
+C:\Users\pasha\source\repos\exzoop9\exzoop9\obj\Debug\exzoop9.exe
+C:\Users\pasha\source\repos\exzoop9\exzoop9\obj\Debug\exzoop9.pdb
+C:\Users\Админ\Downloads\Telegram Desktop\oop practika\oop practika\exzoop9\exzoop9\bin\Debug\exzoop9.exe.config
+C:\Users\Админ\Downloads\Telegram Desktop\oop practika\oop practika\exzoop9\exzoop9\bin\Debug\exzoop9.exe
+C:\Users\Админ\Downloads\Telegram Desktop\oop practika\oop practika\exzoop9\exzoop9\bin\Debug\exzoop9.pdb
+C:\Users\Админ\Downloads\Telegram Desktop\oop practika\oop practika\exzoop9\exzoop9\obj\Debug\exzoop9.csproj.AssemblyReference.cache
+C:\Users\Админ\Downloads\Telegram Desktop\oop practika\oop practika\exzoop9\exzoop9\obj\Debug\exzoop9.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Downloads\Telegram Desktop\oop practika\oop practika\exzoop9\exzoop9\obj\Debug\exzoop9.exe
+C:\Users\Админ\Downloads\Telegram Desktop\oop practika\oop practika\exzoop9\exzoop9\obj\Debug\exzoop9.pdb

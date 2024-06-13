@@ -1,0 +1,15 @@
+C:\Users\pasha\source\repos\exzoop2\exzoop2\bin\Debug\exzoop2.exe.config
+C:\Users\pasha\source\repos\exzoop2\exzoop2\bin\Debug\exzoop2.exe
+C:\Users\pasha\source\repos\exzoop2\exzoop2\bin\Debug\exzoop2.pdb
+C:\Users\pasha\source\repos\exzoop2\exzoop2\obj\Debug\exzoop2.csproj.AssemblyReference.cache
+C:\Users\pasha\source\repos\exzoop2\exzoop2\obj\Debug\exzoop2.csproj.SuggestedBindingRedirects.cache
+C:\Users\pasha\source\repos\exzoop2\exzoop2\obj\Debug\exzoop2.csproj.CoreCompileInputs.cache
+C:\Users\pasha\source\repos\exzoop2\exzoop2\obj\Debug\exzoop2.exe
+C:\Users\pasha\source\repos\exzoop2\exzoop2\obj\Debug\exzoop2.pdb
+C:\Users\Админ\Downloads\Telegram Desktop\oop practika\oop practika\exzoop2\exzoop2\bin\Debug\exzoop2.exe.config
+C:\Users\Админ\Downloads\Telegram Desktop\oop practika\oop practika\exzoop2\exzoop2\bin\Debug\exzoop2.exe
+C:\Users\Админ\Downloads\Telegram Desktop\oop practika\oop practika\exzoop2\exzoop2\bin\Debug\exzoop2.pdb
+C:\Users\Админ\Downloads\Telegram Desktop\oop practika\oop practika\exzoop2\exzoop2\obj\Debug\exzoop2.csproj.AssemblyReference.cache
+C:\Users\Админ\Downloads\Telegram Desktop\oop practika\oop practika\exzoop2\exzoop2\obj\Debug\exzoop2.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Downloads\Telegram Desktop\oop practika\oop practika\exzoop2\exzoop2\obj\Debug\exzoop2.exe
+C:\Users\Админ\Downloads\Telegram Desktop\oop practika\oop practika\exzoop2\exzoop2\obj\Debug\exzoop2.pdb

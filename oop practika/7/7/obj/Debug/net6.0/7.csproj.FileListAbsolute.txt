@@ -1,0 +1,15 @@
+C:\Users\ASUS TUF\Desktop\раб стол\уник\4 сем\ооп\экзамен проги\7\7\bin\Debug\net6.0\7.exe
+C:\Users\ASUS TUF\Desktop\раб стол\уник\4 сем\ооп\экзамен проги\7\7\bin\Debug\net6.0\7.deps.json
+C:\Users\ASUS TUF\Desktop\раб стол\уник\4 сем\ооп\экзамен проги\7\7\bin\Debug\net6.0\7.runtimeconfig.json
+C:\Users\ASUS TUF\Desktop\раб стол\уник\4 сем\ооп\экзамен проги\7\7\bin\Debug\net6.0\7.dll
+C:\Users\ASUS TUF\Desktop\раб стол\уник\4 сем\ооп\экзамен проги\7\7\bin\Debug\net6.0\7.pdb
+C:\Users\ASUS TUF\Desktop\раб стол\уник\4 сем\ооп\экзамен проги\7\7\obj\Debug\net6.0\7.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF\Desktop\раб стол\уник\4 сем\ооп\экзамен проги\7\7\obj\Debug\net6.0\7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF\Desktop\раб стол\уник\4 сем\ооп\экзамен проги\7\7\obj\Debug\net6.0\7.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF\Desktop\раб стол\уник\4 сем\ооп\экзамен проги\7\7\obj\Debug\net6.0\7.AssemblyInfo.cs
+C:\Users\ASUS TUF\Desktop\раб стол\уник\4 сем\ооп\экзамен проги\7\7\obj\Debug\net6.0\7.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\Desktop\раб стол\уник\4 сем\ооп\экзамен проги\7\7\obj\Debug\net6.0\7.dll
+C:\Users\ASUS TUF\Desktop\раб стол\уник\4 сем\ооп\экзамен проги\7\7\obj\Debug\net6.0\refint\7.dll
+C:\Users\ASUS TUF\Desktop\раб стол\уник\4 сем\ооп\экзамен проги\7\7\obj\Debug\net6.0\7.pdb
+C:\Users\ASUS TUF\Desktop\раб стол\уник\4 сем\ооп\экзамен проги\7\7\obj\Debug\net6.0\7.genruntimeconfig.cache
+C:\Users\ASUS TUF\Desktop\раб стол\уник\4 сем\ооп\экзамен проги\7\7\obj\Debug\net6.0\ref\7.dll

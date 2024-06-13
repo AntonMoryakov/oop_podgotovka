@@ -1,0 +1,54 @@
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\bin\Debug\net6.0\appsettings.json
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\bin\Debug\net6.0\exzoop19back.exe
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\bin\Debug\net6.0\exzoop19back.deps.json
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\bin\Debug\net6.0\exzoop19back.runtimeconfig.json
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\bin\Debug\net6.0\exzoop19back.dll
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\bin\Debug\net6.0\exzoop19back.pdb
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\obj\Debug\net6.0\exzoop19back.csproj.AssemblyReference.cache
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\obj\Debug\net6.0\exzoop19back.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\obj\Debug\net6.0\exzoop19back.AssemblyInfoInputs.cache
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\obj\Debug\net6.0\exzoop19back.AssemblyInfo.cs
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\obj\Debug\net6.0\exzoop19back.csproj.CoreCompileInputs.cache
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\obj\Debug\net6.0\exzoop19back.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\obj\Debug\net6.0\exzoop19back.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\obj\Debug\net6.0\scopedcss\bundle\exzoop19back.styles.css
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\obj\Debug\net6.0\exzoop19back.csproj.CopyComplete
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\obj\Debug\net6.0\exzoop19back.dll
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\obj\Debug\net6.0\refint\exzoop19back.dll
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\obj\Debug\net6.0\exzoop19back.pdb
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\obj\Debug\net6.0\exzoop19back.genruntimeconfig.cache
+C:\Users\pasha\source\repos\exzoop19back\exzoop19back\obj\Debug\net6.0\ref\exzoop19back.dll
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\bin\Debug\net6.0\appsettings.json
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\bin\Debug\net6.0\exzoop19back.exe
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\bin\Debug\net6.0\exzoop19back.deps.json
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\bin\Debug\net6.0\exzoop19back.runtimeconfig.json
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\bin\Debug\net6.0\exzoop19back.dll
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\bin\Debug\net6.0\exzoop19back.pdb
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\obj\Debug\net6.0\exzoop19back.csproj.AssemblyReference.cache
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\obj\Debug\net6.0\exzoop19back.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\obj\Debug\net6.0\exzoop19back.AssemblyInfoInputs.cache
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\obj\Debug\net6.0\exzoop19back.AssemblyInfo.cs
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\obj\Debug\net6.0\exzoop19back.csproj.CoreCompileInputs.cache
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\obj\Debug\net6.0\exzoop19back.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\obj\Debug\net6.0\exzoop19back.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\obj\Debug\net6.0\scopedcss\bundle\exzoop19back.styles.css
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\obj\Debug\net6.0\exzoop19back.csproj.CopyComplete
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\obj\Debug\net6.0\exzoop19back.dll
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\obj\Debug\net6.0\refint\exzoop19back.dll
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\obj\Debug\net6.0\exzoop19back.pdb
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\obj\Debug\net6.0\exzoop19back.genruntimeconfig.cache
+C:\Users\vanya\OneDrive\Рабочий стол\oop practika\exzoop19back\exzoop19back\obj\Debug\net6.0\ref\exzoop19back.dll

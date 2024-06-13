@@ -1,0 +1,15 @@
+C:\Users\pasha\source\repos\exzoop8\exzoop8\bin\Debug\exzoop8.exe.config
+C:\Users\pasha\source\repos\exzoop8\exzoop8\bin\Debug\exzoop8.exe
+C:\Users\pasha\source\repos\exzoop8\exzoop8\bin\Debug\exzoop8.pdb
+C:\Users\pasha\source\repos\exzoop8\exzoop8\obj\Debug\exzoop8.csproj.AssemblyReference.cache
+C:\Users\pasha\source\repos\exzoop8\exzoop8\obj\Debug\exzoop8.csproj.SuggestedBindingRedirects.cache
+C:\Users\pasha\source\repos\exzoop8\exzoop8\obj\Debug\exzoop8.csproj.CoreCompileInputs.cache
+C:\Users\pasha\source\repos\exzoop8\exzoop8\obj\Debug\exzoop8.exe
+C:\Users\pasha\source\repos\exzoop8\exzoop8\obj\Debug\exzoop8.pdb
+C:\Users\Админ\Downloads\Telegram Desktop\oop practika\oop practika\exzoop8(10)\exzoop8\bin\Debug\exzoop8.exe.config
+C:\Users\Админ\Downloads\Telegram Desktop\oop practika\oop practika\exzoop8(10)\exzoop8\bin\Debug\exzoop8.exe
+C:\Users\Админ\Downloads\Telegram Desktop\oop practika\oop practika\exzoop8(10)\exzoop8\bin\Debug\exzoop8.pdb
+C:\Users\Админ\Downloads\Telegram Desktop\oop practika\oop practika\exzoop8(10)\exzoop8\obj\Debug\exzoop8.csproj.AssemblyReference.cache
+C:\Users\Админ\Downloads\Telegram Desktop\oop practika\oop practika\exzoop8(10)\exzoop8\obj\Debug\exzoop8.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Downloads\Telegram Desktop\oop practika\oop practika\exzoop8(10)\exzoop8\obj\Debug\exzoop8.exe
+C:\Users\Админ\Downloads\Telegram Desktop\oop practika\oop practika\exzoop8(10)\exzoop8\obj\Debug\exzoop8.pdb

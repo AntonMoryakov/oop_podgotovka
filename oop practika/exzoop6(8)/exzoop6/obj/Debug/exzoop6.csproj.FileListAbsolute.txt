@@ -1,0 +1,8 @@
+C:\Users\pasha\source\repos\exzoop6\exzoop6\bin\Debug\exzoop6.exe.config
+C:\Users\pasha\source\repos\exzoop6\exzoop6\bin\Debug\exzoop6.exe
+C:\Users\pasha\source\repos\exzoop6\exzoop6\bin\Debug\exzoop6.pdb
+C:\Users\pasha\source\repos\exzoop6\exzoop6\obj\Debug\exzoop6.csproj.AssemblyReference.cache
+C:\Users\pasha\source\repos\exzoop6\exzoop6\obj\Debug\exzoop6.csproj.SuggestedBindingRedirects.cache
+C:\Users\pasha\source\repos\exzoop6\exzoop6\obj\Debug\exzoop6.csproj.CoreCompileInputs.cache
+C:\Users\pasha\source\repos\exzoop6\exzoop6\obj\Debug\exzoop6.exe
+C:\Users\pasha\source\repos\exzoop6\exzoop6\obj\Debug\exzoop6.pdb

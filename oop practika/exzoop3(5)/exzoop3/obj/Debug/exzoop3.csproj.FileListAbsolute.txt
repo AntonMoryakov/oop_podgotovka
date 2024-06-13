@@ -1,0 +1,8 @@
+C:\Users\pasha\source\repos\exzoop3\exzoop3\bin\Debug\exzoop3.exe.config
+C:\Users\pasha\source\repos\exzoop3\exzoop3\bin\Debug\exzoop3.exe
+C:\Users\pasha\source\repos\exzoop3\exzoop3\bin\Debug\exzoop3.pdb
+C:\Users\pasha\source\repos\exzoop3\exzoop3\obj\Debug\exzoop3.csproj.AssemblyReference.cache
+C:\Users\pasha\source\repos\exzoop3\exzoop3\obj\Debug\exzoop3.csproj.SuggestedBindingRedirects.cache
+C:\Users\pasha\source\repos\exzoop3\exzoop3\obj\Debug\exzoop3.csproj.CoreCompileInputs.cache
+C:\Users\pasha\source\repos\exzoop3\exzoop3\obj\Debug\exzoop3.exe
+C:\Users\pasha\source\repos\exzoop3\exzoop3\obj\Debug\exzoop3.pdb
